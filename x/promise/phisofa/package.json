@@ -1,0 +1,11 @@
+{
+  "name": "phisofa",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "promises-aplus-tests aplus_test_adapter"
+  },
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
