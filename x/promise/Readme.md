@@ -1,5 +1,5 @@
 
-# Build Your Own X Where X = Promise
+# Build My Own X Where X = Promise
 
 A `Promise` represents the eventual result of an asynchronous operation. Perhaps you already know what it is, or even have used it quite frequently. But if not, I hope these references help:
 
