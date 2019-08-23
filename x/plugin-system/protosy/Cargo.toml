@@ -1,0 +1,7 @@
+
+[workspace]
+members = [
+    "processor",
+    "upcase-plugin",
+    "echo-plugin",
+]
